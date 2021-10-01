@@ -1,1 +1,1 @@
-# Reparameterized Force Field Parameters for Aqueous Solution of BMIMCL Ionic Liquid
+# Improved Force Field Parameters for Aqueous Solution of BMIMCL Ionic Liquid
